@@ -1,0 +1,108 @@
+/* HEADER */
+/* logo-style */
+/* .logotype {
+    color: #4D5AE5;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    margin-right: 76px;
+}
+
+.text-logo {
+    color: #2E2F42;
+}
+
+.menu-link {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    position: relative;
+    display: block;
+}
+
+.color-link {
+    color:#4D5AE5;
+}
+
+.curent::after {
+     position: absolute;
+    content: '';
+    left: 0;
+    bottom: -1px;
+    height: 4px;
+    background-color: #404bbf;
+    border-radius: 2px;
+    width: 100%;
+    display: block;
+}
+
+.contacts-link {
+    font-style: normal;
+}
+
+.info-link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}
+
+.info-link-number {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em; 
+}
+
+.menu-link, .info-link {
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.header-nav {
+    border-bottom: 1px solid #e7e9fc;
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
+}
+
+.page-header-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.page-navigator {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    gap: 40px;
+}
+
+.menu-link {
+    padding: 24px 0;
+}
+
+.container-address {
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    gap: 40px;
+}
+
+.contacts-link {
+    display: flex;
+    font-style: normal;
+} */
