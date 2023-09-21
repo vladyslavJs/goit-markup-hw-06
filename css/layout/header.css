@@ -1,3 +1,101 @@
+.menu {
+    display: none;
+}
+
+.contacts-link {
+    display: none;
+}
+
+.header-nav {
+    padding: 16px 0;
+}
+
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+  box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+}
+
+.page-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logotype {
+    color: #4D5AE5;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.text-logo {
+   color: #2E2F42; 
+}
+
+.burger-button {
+    padding: 0;
+    border: none;
+    line-height: 0;
+    background-color: transparent;
+    fill: rgba(47, 47, 55, 1);
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.burger-button:focus {
+    fill: #404bbf;
+}
+
+
+.mobile-menu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999999;
+    width: 100%;
+    height: 100%;
+    background-color: #FFF;
+
+}
+
+.mobile-menu-close-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 1px solid #CCCCCC;
+    background-color: #FFF;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    border 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mobile-menu-close-button {
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* .mobile-menu:hover,
+.mobile-menu-close-button,
+.mobile-menu:focus,
+.mobile-menu-close-button:focus {
+    background-color: #404bbf;
+    border: none;
+    fill: #ffffff;
+} */
+
+
+
+
+
+
 /* HEADER */
 /* logo-style */
 /* .logotype {
