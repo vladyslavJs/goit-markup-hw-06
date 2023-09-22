@@ -218,7 +218,7 @@
 } */
 
 /* OUR TEAM SECTION */
-.our-team {
+/* .our-team {
     background-color: #F4F4FD;
 }
 
@@ -249,7 +249,6 @@
     letter-spacing: 0.02em;
 }
 
-/* ELEMENTS POSITION */
 .team-list {
     display: flex;
     gap: 24px;
@@ -306,10 +305,13 @@
 
 .icon-media {
     fill: #f4f4fd;
-}
+} */
+
+
+
 
 /* OUR PORTFOLIO SECTION*/
-.our-portfolio {
+/* .our-portfolio {
     background-color: #FFFFFF;
 
 }
@@ -342,7 +344,7 @@
     letter-spacing: 0.02em;
 }
 
-/* ELEMENTS POSITION */
+
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
@@ -394,7 +396,7 @@
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-}
+} */
 
 /* FOTTER SECTION */
 .footer-text {
