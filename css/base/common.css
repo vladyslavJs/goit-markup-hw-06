@@ -42,3 +42,7 @@ button {
 .style-link:focus {
     color: #404bbf;
 }
+
+.section {
+    margin: auto;
+}
