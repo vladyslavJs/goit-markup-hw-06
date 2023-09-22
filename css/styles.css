@@ -399,7 +399,7 @@
 } */
 
 /* FOTTER SECTION */
-.footer-text {
+/* .footer-text {
     color:  #F4F4FD;
     font-size: 16px;
     font-weight: 400;
@@ -418,7 +418,6 @@
     text-transform: uppercase;
 }
 
-/* ELEMENTS POSITION */
 .footer-block {
     background-color: #2E2F42;
     padding: 100px 0;
@@ -478,10 +477,10 @@
 .footer-color:hover,
 .footer-color:focus {
     background-color: #31d0aa;
-}
+} */
 
 /* ----------FOOTER SUBSCRIBE FORM*/
-.text-footer {
+/* .text-footer {
     display: block;
     color: #ffffff;
     font-size: 16px;
@@ -512,10 +511,10 @@
 
 .footer-input::placeholder {
     color: #FFFFFF;
-}
+} */
 
 /* ----------FOOTER-BUTTON-STYLE */
-.footer-button {
+/* .footer-button {
     padding: 0 24px;
     min-width: 165px;
     display: flex;
@@ -540,7 +539,7 @@
 .footer-svg-icon {
     margin-left: 16px;
     stroke: white;
-}
+} */
 /* ----------/FOOTER-BUTTON-STYLE */
 /* ----------/FOOTER SUBSCRIBE FORM*/
 
