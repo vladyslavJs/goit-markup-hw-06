@@ -1,3 +1,12 @@
+
+# goit-markup-hw-06
+
+my-homework
+responsive design
+
+https://vladyslavjs.github.io/goit-markup-hw-06/
+
+
 # goit-markup-hw-05
 
 my-homework
