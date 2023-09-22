@@ -10,3 +10,6 @@
 
 /* Layout */
 @import './layout/header.css';
+@import './layout/hero-section.css';
+@import './layout/advantages-section.css';
+
