@@ -1,8 +1,7 @@
 /* MAIN-STYLES */
-.section {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
+/* .section {
+    margin: auto;
+} */
 
 
 /* PAGE NAVIGATOR SECTION */
@@ -118,7 +117,7 @@
 
 /* HERO SECTION */
 /* ELEMENTS POSITION */
-.main-menu {
+/* .main-menu {
     background: #2E2F42;
     padding: 188px 0;
     background-repeat: no-repeat;
@@ -146,7 +145,7 @@
     margin: 0 auto;
     margin-bottom: 48px;
 }
- /* button-style */
+
 .button-text {
     display: block;
     background-color: #4d5ae5;
@@ -166,16 +165,16 @@
     margin: 0 auto;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* BUTTON-ACTIVE */
+
 
 .button-text:hover,
 .button-text:focus {
     background-color: #404BBF;
-}
+} */
 
 /* ADVANTAGES SECTION */
 
-.advantages-header {
+/* .advantages-header {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -193,7 +192,6 @@
     letter-spacing: 0.02em;
 }
 
-/* ELEMENTS POSITION */
 
 .advantages-position {
     display: flex;
@@ -217,7 +215,7 @@
     background-color: #f4f4fd;
     margin-bottom: 8px;
     border-radius: 4px;
-}
+} */
 
 /* OUR TEAM SECTION */
 .our-team {
