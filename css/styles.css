@@ -545,7 +545,7 @@
 
 /* REVIEWS */
 /* -------------BACKDROP */
-.backdrop {
+/* .backdrop {
     position: fixed;
     top: 0;
     left: 0;
@@ -557,11 +557,11 @@
     visibility: hidden;
     pointer-events: none;
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 /* -------------/BACKDROP */
 
 /* -------------MODAL WINDOW  */
-.modal {
+/* .modal {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -575,9 +575,9 @@
     padding: 72px 24px 24px 24px;
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 2px 1px rgba(0, 0, 0, 0.2);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-/* ----------CLOSE-BUTTON-STYLE */
-.close-button {
+} */
+
+/* .close-button {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -596,22 +596,22 @@
 
 .close-button-icon {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
-.close-button:hover,
+/* .close-button:hover,
 .close-button-icon:hover,
 .close-button:focus,
 .close-button-icon:focus {
     background-color: #404bbf;
     border: none;
     fill: #ffffff;
-}
+} */
 /* ----------/CLOSE-BUTTON-STYLE */
 /* -------------/MODAL WINDOW */
 
 /* -------------MODAL-STYLE */
 /* ---------I-II-III FORM MODAL STYLE*/
-.review-form-title {
+/* .review-form-title {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -657,12 +657,12 @@
 
 .review-form-input:focus + .review-form-icon {
     fill: #4D5AE5;
-}
+} */
 /* ----------/I-II-III FORM MODAL STYLE */
 
 /* ----------FOURTH FORM COMMENTS */
 
-.review-form-container-area {
+/* .review-form-container-area {
     margin-bottom: 16px;
 }
 
@@ -703,17 +703,17 @@
 .review-form-comment:focus {
     border-color: #4D5AE5;
     outline: transparent;
-}
+} */
 /* ----------/FOURTH FORM COMMENTS */
 
-.review-form-checkbox-container {
+/* .review-form-checkbox-container {
     margin-bottom: 24px;
 
-}
+} */
 
 /* -----------FIVE FORM CHECKBOX */
 
-.review-form-box {
+/* .review-form-box {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -747,12 +747,12 @@
     + .review-form-box-label 
     > .review-form-box {
         outline: 1px solid #FAFAFA;
-}
+} */
 /* -----------/FIVE FORM CHECKBOX */
 
 /* --------BUTTON-SEND-MODAL */
 
-.review-form-send {
+/* .review-form-send {
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -772,17 +772,17 @@
 .review-form-send:hover, 
 .review-form-send:focus {
     background-color: #404bbf;
-}
+} */
 /* --------/BUTTON-SEND-MODAL */
 /* -------------/MODAL-STYLE */
 /* /REVIEWS */
 
 /* -------------JS-MUNIPULATION*/
-.backdrop.is-open {
+/* .backdrop.is-open {
     opacity: 1;
     visibility: visible;
     pointer-events: auto; 
-}
+} */
 
 
 
