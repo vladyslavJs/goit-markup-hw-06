@@ -1,15 +1,17 @@
+/* mobile verison */
 .container {
     max-width: 288px;
     margin: 0 auto;
 }
 
+/* tablet version */
 @media screen and (min-width: 768px) {
     .container {
         max-width: 736px;
     }
 }
 
-
+/* desktop version */
 @media screen and (min-width: 1158px) {
     .container {
         max-width: 1158px;
